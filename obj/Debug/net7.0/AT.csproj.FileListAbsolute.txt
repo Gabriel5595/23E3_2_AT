@@ -1,0 +1,14 @@
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\bin\Debug\net7.0\AT.exe
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\bin\Debug\net7.0\AT.deps.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\bin\Debug\net7.0\AT.runtimeconfig.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\bin\Debug\net7.0\AT.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\bin\Debug\net7.0\AT.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.AssemblyInfoInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.AssemblyInfo.cs
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.csproj.CoreCompileInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\refint\AT.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\AT.genruntimeconfig.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\AT\obj\Debug\net7.0\ref\AT.dll
