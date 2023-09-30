@@ -10,11 +10,11 @@ namespace AT.Classes
         public double SaldoContaInternacional { get; private set; }
         public double SaldoContaCripto { get; private set; }
 
-        public Clientes(string cpf, string nome, double SaldoContaCorrent, double SaldoContaInternacional, double SaldoContaCripto)
+        public Cliente(string cpf, string nome, double saldoContaCorrente, double saldoContaInternacional, double saldoContaCripto)
         {
             this.CPF = cpf;
             this.Nome = nome;
-            this.SaldoContaCorrente = SaldoContaCorrente;
+            this.SaldoContaCorrente = saldoContaCorrente;
             this.SaldoContaInternacional = saldoContaInternacional;
             this.SaldoContaCripto = saldoContaCripto;
         }
