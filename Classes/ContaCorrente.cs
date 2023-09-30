@@ -6,7 +6,7 @@ namespace AT.Classes
     {
         public ContaCorrente(double saldoAtualEmReais) : base(saldoAtualEmReais) { }
 
-        public double Calcular()
+        public double CalcularTarifa()
         {
             return SaldoAtualEmReais * 0.015;
         }

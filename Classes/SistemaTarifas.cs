@@ -13,7 +13,7 @@ namespace AT.Classes
 
             if (conta is ITarifa contaComTarifa)
             {
-                ValorTotalTarifa += contaComTarifa.Calcular();
+                ValorTotalTarifa += contaComTarifa.CalcularTarifa();
             }
         }
     }
