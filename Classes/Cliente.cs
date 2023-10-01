@@ -18,14 +18,5 @@ namespace AT.Classes
             this.SaldoContaInternacional = saldoContaInternacional;
             this.SaldoContaCripto = saldoContaCripto;
         }
-
-
-        //criar três listas:
-            //listaCpfCorrent
-            //listacpfInter
-            //listacpfCripto
-        
-        //criar método que adicionar os atributos a cada uma das três listas
-
     }
 }

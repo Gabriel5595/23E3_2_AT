@@ -6,6 +6,8 @@ namespace AT.Classes
     {
         public virtual double SaldoAtualEmReais { get; protected set; }
 
+        
+
         public Conta(double saldoAtualEmReais)
         {
             this.SaldoAtualEmReais = saldoAtualEmReais;
